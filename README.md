@@ -96,16 +96,16 @@ SCLC-miRNA-Analysis/
 ## Figures
 
 ### miRNA–mRNA Interaction Network
-![Cytoscape Network](figures/Cytoscape_miRNA_mRNA_network.png)
+
 
 ### GO Enrichment — Biological Process
-![GO BP](figures/GO_BP_barplot.png)
+
 
 ### GO Enrichment — Cellular Component
-![GO CC](figures/GO_CC_barplot.png)
+
 
 ### GO Enrichment — Molecular Function
-![GO MF](figures/GO_MF_barplot.png)
+
 
 ---
 
